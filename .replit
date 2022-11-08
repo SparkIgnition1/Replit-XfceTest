@@ -1,0 +1,6 @@
+language = "bash"
+audio = true
+run = "i3"
+
+[nix]
+channel = "stable-21_11"
